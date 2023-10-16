@@ -7,7 +7,6 @@ The `GraduationCeremony` class is a Python implementation of a dynamic programmi
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
 
 
 ## Prerequisites
